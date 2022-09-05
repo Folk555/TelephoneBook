@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+td {
+    border: 1px solid grey;
+    align-content: center;
+    text-align: center;
+}
+
+th {
+    border: 2px solid grey;
+}
+
+table {
+    border: 2px solid #716249;
+    border-collapse: collapse;
+    margin: auto;
+}
